@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "react-native-extended-stylesheet": "^0.12.0",
+    "react-stylesheet": "^2.2.2",
+    "style-sheet": "^4.0.4"
+  }
+}
